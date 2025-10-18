@@ -21,7 +21,6 @@ bash <(curl -fsSL https://raw.githubusercontent.com/nyan-lin-tun/xcframework-gen
 ```
 
 ### For Xcode Projects (.xcodeproj)
-https://github.com/nyan-lin-tun/xcframework-generator.git
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/nyan-lin-tun/xcframework-generator/v1.0.0/main.sh) \
   -p YourProject.xcodeproj \
